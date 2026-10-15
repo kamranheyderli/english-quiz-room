@@ -1,0 +1,1593 @@
+{
+  "stories": [
+    {
+      "id": "ls-little-rabbit-fruit",
+      "level": "early",
+      "ages": [
+        "4-5"
+      ],
+      "title": "Little Rabbit and the Fruit",
+      "az": "Nağıl: balaca dovşan və rəngli meyvələr",
+      "covers": [
+        "little-animals",
+        "little-colours",
+        "little-food"
+      ],
+      "paragraphs": [
+        "Once upon a time, there is a little rabbit. Little Rabbit is hungry.",
+        "Little Rabbit sees a red apple. \"Yum!\" She sees a yellow banana. \"Yum, yum!\" She sees green grapes. \"Yum, yum, yum!\"",
+        "She sees a duck. \"I am hungry too,\" says the duck. \"Here is a banana for you,\" says Little Rabbit.",
+        "The duck is happy. Little Rabbit eats the red apple. Now she is happy too!"
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "Who is the story about?",
+          "say": "Who is the story about?",
+          "pictureOptions": true,
+          "options": [
+            "🐈",
+            "🐇",
+            "🐕",
+            "🐄"
+          ],
+          "answer": 1,
+          "explain": "Nağıl balaca dovşan haqqındadır: \"there is a little rabbit\"."
+        },
+        {
+          "skill": "detail",
+          "question": "What colour is the apple?",
+          "say": "What colour is the apple?",
+          "pictureOptions": true,
+          "options": [
+            "🟢",
+            "🔵",
+            "🟡",
+            "🔴"
+          ],
+          "answer": 3,
+          "explain": "Mətndə deyilir: \"a red apple\" – qırmızı alma."
+        },
+        {
+          "skill": "detail",
+          "question": "Who gets the banana?",
+          "say": "Who gets the banana?",
+          "pictureOptions": true,
+          "options": [
+            "🦆",
+            "🐑",
+            "🐴",
+            "🐔"
+          ],
+          "answer": 0,
+          "explain": "Dovşan bananı ördəyə verir: \"Here is a banana for you\"."
+        },
+        {
+          "skill": "vocab",
+          "question": "Little Rabbit sees green grapes. Show me the grapes.",
+          "say": "Little Rabbit sees green grapes. Show me the grapes.",
+          "pictureOptions": true,
+          "options": [
+            "🍎",
+            "🍌",
+            "🍇",
+            "🍓"
+          ],
+          "answer": 2,
+          "explain": "\"Grapes\" – üzüm deməkdir."
+        }
+      ]
+    },
+    {
+      "id": "ls-grandma-magic-box",
+      "level": "early",
+      "ages": [
+        "4-5"
+      ],
+      "title": "Grandma's Magic Box",
+      "az": "Nağıl: nənənin sehirli qutusu",
+      "covers": [
+        "little-people",
+        "little-numbers",
+        "little-toys"
+      ],
+      "paragraphs": [
+        "Once upon a time, Grandma has a magic box. \"Open it!\" says Grandma. The girl opens the box.",
+        "Look! One train! Choo, choo! Two cars! Beep, beep! Three planes! Zoom, zoom!",
+        "The baby claps. Clap, clap! The boy laughs. Ha, ha! The girl smiles. \"Thank you, Grandma!\"",
+        "Grandma closes the magic box. \"See you tomorrow!\""
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "Who has the magic box?",
+          "say": "Who has the magic box?",
+          "pictureOptions": true,
+          "options": [
+            "👶",
+            "👦",
+            "👵",
+            "👧"
+          ],
+          "answer": 2,
+          "explain": "\"Grandma has a magic box\" – sehirli qutu nənənindir."
+        },
+        {
+          "skill": "detail",
+          "question": "How many cars are in the box?",
+          "say": "How many cars are in the box?",
+          "pictureOptions": true,
+          "options": [
+            "🚗",
+            "🚗🚗",
+            "🚗🚗🚗",
+            "🚗🚗🚗🚗"
+          ],
+          "answer": 1,
+          "explain": "Mətndə deyilir: \"Two cars! Beep, beep!\" – iki maşın."
+        },
+        {
+          "skill": "vocab",
+          "question": "Choo, choo! Show me the train.",
+          "say": "Choo, choo! Show me the train.",
+          "pictureOptions": true,
+          "options": [
+            "🚂",
+            "🚗",
+            "✈️",
+            "🚌"
+          ],
+          "answer": 0,
+          "explain": "\"Choo, choo\" qatarın səsidir: \"One train! Choo, choo!\""
+        },
+        {
+          "skill": "detail",
+          "question": "Who claps? Clap, clap!",
+          "say": "Who claps? Clap, clap!",
+          "pictureOptions": true,
+          "options": [
+            "👵",
+            "👧",
+            "👦",
+            "👶"
+          ],
+          "answer": 3,
+          "explain": "\"The baby claps\" – körpə əl çalır."
+        }
+      ]
+    },
+    {
+      "id": "ls-cold-little-frog",
+      "level": "pre-a1",
+      "title": "The Cold Little Frog",
+      "az": "Nağıl: üşüyən balaca qurbağa",
+      "covers": [
+        "colours",
+        "animals",
+        "clothes"
+      ],
+      "paragraphs": [
+        "It is winter. It is cold and snowy today. A little green frog sits by the river. \"I am cold!\" says the frog.",
+        "A bird flies to the frog. \"Here is my red hat,\" says the bird. Now the frog has got a red hat.",
+        "A cat walks to the frog. \"Here is my blue scarf,\" says the cat. Now the frog has got a red hat and a blue scarf.",
+        "A sheep comes too. \"Here are my yellow socks,\" says the sheep. One, two, three, four yellow socks!",
+        "Now the frog is warm and happy. \"Thank you, my friends!\""
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "What is the story about?",
+          "options": [
+            "A frog who swims in a hot river",
+            "A cold frog and his kind friends",
+            "A bird who loses her hat",
+            "A cat who likes snow"
+          ],
+          "answer": 1,
+          "explain": "Qurbağa üşüyür, dostları ona paltar verir."
+        },
+        {
+          "skill": "detail",
+          "question": "What does the cat give the frog?",
+          "options": [
+            "A red hat",
+            "Yellow socks",
+            "A blue scarf",
+            "A green coat"
+          ],
+          "answer": 2,
+          "explain": "\"Here is my blue scarf,\" says the cat."
+        },
+        {
+          "skill": "detail",
+          "question": "How many yellow socks are there?",
+          "options": [
+            "Four",
+            "Two",
+            "Three",
+            "One"
+          ],
+          "answer": 0,
+          "explain": "\"One, two, three, four yellow socks!\""
+        },
+        {
+          "skill": "vocab",
+          "question": "\"It is cold and snowy today.\" What is the weather like?",
+          "options": [
+            "It is hot and sunny.",
+            "It is warm and windy.",
+            "It is rainy.",
+            "There is snow and it is cold."
+          ],
+          "answer": 3,
+          "explain": "\"Snowy\" – qarlı, \"cold\" – soyuq."
+        }
+      ]
+    },
+    {
+      "id": "ls-aysel-lost-teddy",
+      "level": "pre-a1",
+      "title": "Where Is My Teddy?",
+      "az": "Hekayə: Ayselin itmiş oyuncaq ayısı",
+      "covers": [
+        "family",
+        "school",
+        "toys"
+      ],
+      "paragraphs": [
+        "This is Aysel. She is seven. She has got a brown teddy bear. His name is Bobo.",
+        "Every morning Aysel puts her books, her pencil and Bobo in her schoolbag. But today, Bobo is not in the bag!",
+        "\"Mum, where is my teddy?\" asks Aysel. Mum looks under the bed. No teddy. Dad looks in the car. No teddy.",
+        "Grandma laughs. \"Look at your little brother!\" Aysel's brother Tural is three. He is on the sofa with Bobo.",
+        "\"Tural, can I have my teddy, please?\" Tural gives Aysel the teddy. Aysel gives Tural a ball. Now they are both happy."
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "What is the problem in the story?",
+          "options": [
+            "Aysel can't find her teddy bear.",
+            "Aysel can't find her pencil.",
+            "Tural's ball is broken.",
+            "Grandma is sad."
+          ],
+          "answer": 0,
+          "explain": "Ayselin ayısı çantada yoxdur: \"Bobo is not in the bag!\""
+        },
+        {
+          "skill": "detail",
+          "question": "Where does Mum look?",
+          "options": [
+            "In the car",
+            "Under the bed",
+            "In the schoolbag",
+            "On the sofa"
+          ],
+          "answer": 1,
+          "explain": "\"Mum looks under the bed.\""
+        },
+        {
+          "skill": "detail",
+          "question": "How old is Tural?",
+          "options": [
+            "Seven",
+            "Five",
+            "Three",
+            "Six"
+          ],
+          "answer": 2,
+          "explain": "\"Aysel's brother Tural is three.\""
+        },
+        {
+          "skill": "vocab",
+          "question": "In the story, Aysel puts her things in her schoolbag. Which things?",
+          "options": [
+            "Her ball, her car and her teddy",
+            "Her hat, her shoes and her teddy",
+            "Her pen, her ruler and her ball",
+            "Her books, her pencil and her teddy"
+          ],
+          "answer": 3,
+          "explain": "\"Aysel puts her books, her pencil and Bobo in her schoolbag.\""
+        }
+      ]
+    },
+    {
+      "id": "ls-new-pupil-nigar",
+      "level": "a1",
+      "title": "Hello from Nigar",
+      "az": "Məktub: yeni şagird özünü təqdim edir",
+      "covers": [
+        "intro",
+        "home",
+        "abilities"
+      ],
+      "paragraphs": [
+        "Dear new classmates, hello! My name is Nigar Hasanova and I am ten years old. I am your new classmate. I am from Sheki, but now my family lives in Baku.",
+        "We live in a flat on the fifth floor. It has got three bedrooms, a big kitchen and a small balcony. My bedroom is next to the bathroom. There is a desk, a bed and a lot of books in it.",
+        "I can speak English and Russian, and I can play the piano. I can swim too, but I can't ride a bike. Can you teach me?",
+        "My favourite subject is art. I love drawing animals. I haven't got any friends in Baku yet, so I am a bit nervous. Please say hello to me on Monday!",
+        "Best wishes, Nigar."
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "Why does Nigar write this letter?",
+          "options": [
+            "To invite her friends to a party",
+            "To tell her new class about herself",
+            "To sell her flat in Baku",
+            "To thank her piano teacher"
+          ],
+          "answer": 1,
+          "explain": "Nigar yeni sinif yoldaşlarına özü haqqında yazır: \"I am your new classmate.\""
+        },
+        {
+          "skill": "detail",
+          "question": "Where is Nigar from?",
+          "options": [
+            "Baku",
+            "Gabala",
+            "Sheki",
+            "Ganja"
+          ],
+          "answer": 2,
+          "explain": "\"I am from Sheki, but now my family lives in Baku.\""
+        },
+        {
+          "skill": "detail",
+          "question": "What can't Nigar do?",
+          "options": [
+            "Swim",
+            "Play the piano",
+            "Speak Russian",
+            "Ride a bike"
+          ],
+          "answer": 3,
+          "explain": "\"I can swim too, but I can't ride a bike.\""
+        },
+        {
+          "skill": "detail",
+          "question": "What is next to Nigar's bedroom?",
+          "options": [
+            "The bathroom",
+            "The kitchen",
+            "The balcony",
+            "The living room"
+          ],
+          "answer": 0,
+          "explain": "\"My bedroom is next to the bathroom.\""
+        },
+        {
+          "skill": "vocab",
+          "question": "Nigar says \"I am a bit nervous.\" How does she feel?",
+          "options": [
+            "Very happy and excited",
+            "Tired and hungry",
+            "A little worried",
+            "Angry with her family"
+          ],
+          "answer": 2,
+          "explain": "\"Nervous\" – bir az narahat, həyəcanlı deməkdir."
+        }
+      ]
+    },
+    {
+      "id": "ls-murad-day",
+      "level": "a1",
+      "title": "A Day in Murad's Life",
+      "az": "Hekayə: Muradın bir günü",
+      "covers": [
+        "routine",
+        "town",
+        "food"
+      ],
+      "paragraphs": [
+        "Murad is twelve and he lives in Gabala. He gets up at seven o'clock every day. He has breakfast with his sister. He usually eats bread, cheese and eggs, but he doesn't drink coffee. He drinks tea.",
+        "His school is between the post office and the park, so he walks there. Lessons start at eight thirty.",
+        "After school, Murad goes to the library on Mondays and Wednesdays. On Fridays, he plays football in the park with his friends.",
+        "In the evening, his mum often sends him to the shop. Today she needs some milk, six eggs and a kilo of apples. \"How much is it?\" Murad asks. \"Nine manat, please,\" says the shopkeeper.",
+        "Murad does his homework after dinner, and he goes to bed at ten o'clock."
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "What is this text mainly about?",
+          "options": [
+            "Murad's holiday in Gabala",
+            "Murad's favourite football team",
+            "Murad's usual day",
+            "Murad's new school in Baku"
+          ],
+          "answer": 2,
+          "explain": "Mətn Muradın gündəlik həyatını təsvir edir: oyanır, məktəbə gedir, mağazaya gedir."
+        },
+        {
+          "skill": "detail",
+          "question": "What does Murad drink at breakfast?",
+          "options": [
+            "Tea",
+            "Coffee",
+            "Milk",
+            "Juice"
+          ],
+          "answer": 0,
+          "explain": "\"He doesn't drink coffee. He drinks tea.\""
+        },
+        {
+          "skill": "detail",
+          "question": "Where is Murad's school?",
+          "options": [
+            "Next to the library",
+            "Between the post office and the park",
+            "Opposite the shop",
+            "Near the bus station"
+          ],
+          "answer": 1,
+          "explain": "\"His school is between the post office and the park.\""
+        },
+        {
+          "skill": "detail",
+          "question": "When does Murad play football?",
+          "options": [
+            "On Mondays",
+            "On Wednesdays",
+            "Every evening",
+            "On Fridays"
+          ],
+          "answer": 3,
+          "explain": "\"On Fridays, he plays football in the park.\""
+        },
+        {
+          "skill": "vocab",
+          "question": "Murad asks \"How much is it?\" What does he want to know?",
+          "options": [
+            "The time",
+            "The number of eggs",
+            "The price",
+            "The way to the shop"
+          ],
+          "answer": 2,
+          "explain": "\"How much is it?\" – qiyməti soruşmaq üçündür: \"Nine manat\"."
+        }
+      ]
+    },
+    {
+      "id": "ls-phone-call-cooking",
+      "level": "a1",
+      "title": "A Phone Call in the Kitchen",
+      "az": "Dialoq: yemək bişirərkən telefon zəngi",
+      "covers": [
+        "continuous",
+        "food",
+        "home"
+      ],
+      "paragraphs": [
+        "It is six o'clock on Saturday. Leyla is in the kitchen. Her phone is ringing. It is her friend Aysel.",
+        "\"Hi, Leyla! What are you doing?\" \"Hi, Aysel! I'm cooking dinner. I'm making soup and a salad.\"",
+        "\"Where is your family?\" \"My dad is sitting on the sofa in the living room. He is watching football on TV. My little brother is having a shower in the bathroom.\"",
+        "\"And your mum?\" \"She is working today. She is coming home at seven.\"",
+        "\"Can I help you? I'm not doing anything.\" \"Yes, please! There aren't any tomatoes in the fridge. Can you bring some?\" \"Of course. I'm leaving now. See you soon!\""
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "What is the phone call mostly about?",
+          "options": [
+            "Leyla's plans for next Saturday",
+            "What Leyla and her family are doing now",
+            "A football match that Aysel is watching",
+            "Shopping for dinner with Leyla's mum"
+          ],
+          "answer": 1,
+          "explain": "Aysel soruşur: \"What are you doing?\" Leyla özü, atası, qardaşı və anası indi nə etdiyini danışır."
+        },
+        {
+          "skill": "detail",
+          "question": "What is Leyla's dad doing?",
+          "options": [
+            "He is watching football on TV.",
+            "He is cooking soup.",
+            "He is having a shower.",
+            "He is working."
+          ],
+          "answer": 0,
+          "explain": "\"He is watching football on TV.\""
+        },
+        {
+          "skill": "detail",
+          "question": "Where is Leyla's little brother?",
+          "options": [
+            "In the kitchen",
+            "In the living room",
+            "In the garden",
+            "In the bathroom"
+          ],
+          "answer": 3,
+          "explain": "\"My little brother is having a shower in the bathroom.\""
+        },
+        {
+          "skill": "detail",
+          "question": "What does Aysel bring?",
+          "options": [
+            "Some soup",
+            "Some tomatoes",
+            "Some milk",
+            "A salad"
+          ],
+          "answer": 1,
+          "explain": "\"There aren't any tomatoes in the fridge. Can you bring some?\""
+        },
+        {
+          "skill": "vocab",
+          "question": "Leyla says \"There aren't any tomatoes in the fridge.\" What does this mean?",
+          "options": [
+            "The fridge is full of tomatoes.",
+            "She doesn't like tomatoes.",
+            "There are no tomatoes in the fridge.",
+            "The tomatoes are in the bathroom."
+          ],
+          "answer": 2,
+          "explain": "\"There aren't any\" – heç yoxdur deməkdir."
+        }
+      ]
+    },
+    {
+      "id": "ls-a2-rainy-holiday-gabala",
+      "level": "a2",
+      "title": "A Rainy Holiday in Gabala",
+      "az": "Hekayə: Qəbələdə ailə tətili",
+      "covers": [
+        "past",
+        "travel"
+      ],
+      "paragraphs": [
+        "Last summer, my family and I went to Gabala for five days. We travelled by car from Baku, and the journey took about four hours. My little brother Tural slept all the way, but I looked out of the window at the green hills and the mountains.",
+        "We stayed at a small hotel near the forest. Our room was on the second floor, and it had a big balcony. On the first morning, we took the cable car up the mountain. It was cold at the top, but I was happy because I had my warm jacket.",
+        "On the third day, it rained all day, so we didn't go outside. While my parents were reading in the hotel café, Tural and I played board games with two children from Sheki. Their names were Aysel and Kamal, and they were very friendly.",
+        "On the last evening, we bought some honey and jam at the market for our grandmother. I didn't want to go home. I hope we can go back to Gabala next year!"
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "What is the text mainly about?",
+          "options": [
+            "A school trip to Sheki",
+            "A day at the market in Baku",
+            "A family holiday in Gabala",
+            "A weekend at grandmother's house"
+          ],
+          "answer": 2,
+          "explain": "Mətn ailənin Qəbələdə keçirdiyi beş günlük tətildən danışır: \"my family and I went to Gabala for five days\"."
+        },
+        {
+          "skill": "detail",
+          "question": "How did the family travel from Baku to Gabala?",
+          "options": [
+            "By car",
+            "By cable car",
+            "By bus",
+            "By train"
+          ],
+          "answer": 0,
+          "explain": "\"We travelled by car from Baku\". Kanat yolu (cable car) ilə isə dağa qalxdılar."
+        },
+        {
+          "skill": "detail",
+          "question": "What did the children do on the rainy day?",
+          "options": [
+            "They read books in the hotel café.",
+            "They played board games with two new friends.",
+            "They took the cable car up the mountain.",
+            "They went to the market."
+          ],
+          "answer": 1,
+          "explain": "\"Tural and I played board games with two children from Sheki\". Kafedə kitab oxuyanlar valideynlər idi."
+        },
+        {
+          "skill": "detail",
+          "question": "What did they buy for their grandmother?",
+          "options": [
+            "A warm jacket",
+            "Some board games",
+            "Some cakes and sweets",
+            "Some honey and jam"
+          ],
+          "answer": 3,
+          "explain": "\"we bought some honey and jam at the market for our grandmother\"."
+        },
+        {
+          "skill": "vocab",
+          "question": "\"The journey took about four hours.\" What does \"journey\" mean here?",
+          "options": [
+            "A room in a hotel",
+            "A kind of car",
+            "The time you travel from one place to another",
+            "A road in the mountains"
+          ],
+          "answer": 2,
+          "explain": "\"Journey\" – bir yerdən başqa yerə səfər, yol. Bakıdan Qəbələyə yol təxminən dörd saat çəkdi."
+        }
+      ]
+    },
+    {
+      "id": "ls-a2-weekend-plans",
+      "level": "a2",
+      "title": "Plans for the Weekend",
+      "az": "Dialoq: dostların həftəsonu planları",
+      "covers": [
+        "future",
+        "hobbies"
+      ],
+      "paragraphs": [
+        "It is Friday afternoon, and Leyla and Murad are walking home from school.",
+        "\"What are you going to do this weekend, Murad?\" Leyla asks.",
+        "\"On Saturday morning, I'm playing football with my team. The match starts at ten o'clock. In the afternoon, I'm going to stay at home and practise the guitar. I'm learning a new song. What about you?\"",
+        "\"I'm not sure yet. I usually go swimming on Saturdays, but the pool is closed this week. Maybe I'll do some painting. I love drawing pictures of animals.\"",
+        "\"Why don't you come to the match? After that, we can go to the park and take some photos. You're really good at photography!\"",
+        "\"That's a great idea! I'll bring my camera. But look at those dark clouds. I think it's going to rain tomorrow.\"",
+        "\"Don't worry. If it rains, we'll go to the cinema instead. There's a new film about dolphins.\"",
+        "\"Perfect! I'll meet you at the stadium at a quarter to ten. See you tomorrow, Murad!\""
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "What are Leyla and Murad mainly talking about?",
+          "options": [
+            "A football match they watched last week",
+            "Their plans for the weekend",
+            "A film about dolphins they saw",
+            "Their new photography club"
+          ],
+          "answer": 1,
+          "explain": "Onlar həftəsonu nə edəcəklərini planlaşdırırlar: \"What are you going to do this weekend?\""
+        },
+        {
+          "skill": "detail",
+          "question": "Why can't Leyla go swimming this Saturday?",
+          "options": [
+            "She has a football match.",
+            "She is learning a new song.",
+            "It is going to rain.",
+            "The pool is closed this week."
+          ],
+          "answer": 3,
+          "explain": "\"I usually go swimming on Saturdays, but the pool is closed this week.\""
+        },
+        {
+          "skill": "detail",
+          "question": "What time will Leyla meet Murad at the stadium?",
+          "options": [
+            "At a quarter to ten",
+            "At ten o'clock",
+            "At a quarter past ten",
+            "In the afternoon"
+          ],
+          "answer": 0,
+          "explain": "\"I'll meet you at the stadium at a quarter to ten.\" Matç isə saat onda başlayır."
+        },
+        {
+          "skill": "detail",
+          "question": "What will they do if it rains?",
+          "options": [
+            "Stay at home and play the guitar",
+            "Go to the park and take photos",
+            "Go to the cinema",
+            "Go swimming"
+          ],
+          "answer": 2,
+          "explain": "\"If it rains, we'll go to the cinema instead.\""
+        },
+        {
+          "skill": "vocab",
+          "question": "\"You're really good at photography.\" What does Murad mean?",
+          "options": [
+            "Leyla takes very nice photos.",
+            "Leyla draws good pictures of animals.",
+            "Leyla plays football very well.",
+            "Leyla has a new camera."
+          ],
+          "answer": 0,
+          "explain": "\"Good at photography\" – fotoşəkil çəkməyi yaxşı bacarmaq deməkdir."
+        }
+      ]
+    },
+    {
+      "id": "ls-a2-prince-magic-flower",
+      "level": "a2",
+      "title": "The Prince and the Magic Flower",
+      "az": "Nağıl: şahzadə və sehrli çiçək",
+      "covers": [
+        "health",
+        "compare"
+      ],
+      "paragraphs": [
+        "Once upon a time, there was a young prince who lived in a beautiful palace. He was the richest boy in the country, but he was also the unhealthiest. He ate cakes and sweets all day, he never walked anywhere, and he went to bed very late. He often had headaches, and he was always tired.",
+        "One day, the king called the wisest doctor in the land. The old woman looked at the prince and said, \"There is a magic flower at the top of the hill. If you walk there every morning, you will find it and feel better. But you must go on foot, and you shouldn't eat sweets before you go.\"",
+        "The next morning, the prince walked up the hill. It was harder than he thought, and he didn't find the flower. He went again the next day, and the next. After a month, he was stronger, faster and happier than before, and he slept much better.",
+        "At last, he said to the doctor, \"I never found the magic flower, but I feel wonderful!\" The doctor smiled. \"The walk was the magic,\" she said."
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "What is the lesson of the story?",
+          "options": [
+            "Magic flowers can cure every illness.",
+            "Rich people are always happy.",
+            "Kings should listen to their sons.",
+            "Walking and healthy habits make you feel better."
+          ],
+          "answer": 3,
+          "explain": "Həkimin sözü: \"The walk was the magic\" – yəni sağlam vərdişlər və gəzinti insanı sağlam edir."
+        },
+        {
+          "skill": "detail",
+          "question": "What was wrong with the prince at the start of the story?",
+          "options": [
+            "He had a bad cough.",
+            "He was always tired and often had headaches.",
+            "He was too poor to buy food.",
+            "He couldn't walk."
+          ],
+          "answer": 1,
+          "explain": "\"He often had headaches, and he was always tired.\""
+        },
+        {
+          "skill": "detail",
+          "question": "What did the doctor tell the prince to do?",
+          "options": [
+            "Walk up the hill every morning",
+            "Eat the magic flower",
+            "Ride a horse to the top of the hill",
+            "Sleep in the afternoon"
+          ],
+          "answer": 0,
+          "explain": "\"If you walk there every morning, you will find it and feel better. But you must go on foot\"."
+        },
+        {
+          "skill": "detail",
+          "question": "How was the prince different after a month?",
+          "options": [
+            "He was richer and more famous.",
+            "He was taller than the king.",
+            "He was stronger, faster and happier.",
+            "He was older and wiser than the doctor."
+          ],
+          "answer": 2,
+          "explain": "\"After a month, he was stronger, faster and happier than before\"."
+        },
+        {
+          "skill": "vocab",
+          "question": "\"The king called the wisest doctor in the land.\" \"The wisest\" means the doctor who…",
+          "options": [
+            "was the oldest of all",
+            "knew the most and gave the best advice",
+            "was the richest of all",
+            "walked the fastest"
+          ],
+          "answer": 1,
+          "explain": "\"Wise\" – müdrik, ağıllı; \"the wisest\" – ən müdrik. Həkimin məsləhəti həqiqətən ağıllı idi."
+        }
+      ]
+    },
+    {
+      "id": "ls-b1-school-recycling-interview",
+      "level": "b1",
+      "ages": [
+        "12-14",
+        "15-17",
+        "18+"
+      ],
+      "title": "Green City: A School That Recycles",
+      "az": "Radio müsahibəsi: məktəbdə təkrar emal layihəsi",
+      "covers": [
+        "env",
+        "perfect"
+      ],
+      "paragraphs": [
+        "Good morning and welcome to Green City, the programme about people who are changing Baku for the better. My guest today is Aysel Karimova, a science teacher who has started a recycling project at her school. Good morning, Aysel.",
+        "Good morning, and thank you for inviting me.",
+        "So, how long have you worked on this project?",
+        "We started it two years ago. At that time, our school threw away thousands of plastic bottles every month, and nobody had really thought about it. Then a student called Tural asked me why we didn't recycle them. I didn't have a good answer, so we decided to do something.",
+        "And what have you done since then?",
+        "Quite a lot! We've put recycling bins in every corridor, and the students have collected more than fifty thousand bottles. A local company has turned them into benches for the school garden. We've also planted two hundred trees around the playground.",
+        "That's really impressive. Have you had any problems?",
+        "Of course. At first, some students weren't interested, and the bins were often full of food. But we've organised competitions between classes, and now everyone wants to win.",
+        "What's next for the project?",
+        "We haven't finished yet. Next year, we want to put solar panels on the roof, so the school can use clean energy from the sun.",
+        "Aysel Karimova, thank you so much, and good luck!"
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "What is the interview mainly about?",
+          "options": [
+            "How to become a science teacher",
+            "A school recycling project and what it has achieved",
+            "A company that makes garden benches",
+            "Putting solar panels on houses in Baku"
+          ],
+          "answer": 1,
+          "explain": "Müsahibə Ayselin məktəbdə başlatdığı təkrar emal layihəsindən və onun nəticələrindən bəhs edir."
+        },
+        {
+          "skill": "detail",
+          "question": "How did the project begin?",
+          "options": [
+            "A local company asked the school for bottles.",
+            "The teachers organised a competition.",
+            "A student asked why the school didn't recycle its bottles.",
+            "Aysel read about recycling in a newspaper."
+          ],
+          "answer": 2,
+          "explain": "\"Then a student called Tural asked me why we didn't recycle them.\""
+        },
+        {
+          "skill": "detail",
+          "question": "What has a local company done with the bottles?",
+          "options": [
+            "It has turned them into benches for the school garden.",
+            "It has planted trees around the playground.",
+            "It has put recycling bins in every corridor.",
+            "It has paid for solar panels."
+          ],
+          "answer": 0,
+          "explain": "\"A local company has turned them into benches for the school garden.\""
+        },
+        {
+          "skill": "detail",
+          "question": "How did the school solve the problem of students who weren't interested?",
+          "options": [
+            "It put more bins in the corridors.",
+            "It stopped selling food at school.",
+            "It gave the students free benches.",
+            "It organised competitions between classes."
+          ],
+          "answer": 3,
+          "explain": "\"we've organised competitions between classes, and now everyone wants to win.\""
+        },
+        {
+          "skill": "vocab",
+          "question": "\"That's really impressive.\" The presenter means that the results are…",
+          "options": [
+            "very surprising and difficult to believe",
+            "very good and make people admire them",
+            "too small to be important",
+            "still not finished"
+          ],
+          "answer": 1,
+          "explain": "\"Impressive\" – heyranlıq doğuran, təsirli. Aparıcı layihənin nəticələrini çox yüksək qiymətləndirir."
+        }
+      ]
+    },
+    {
+      "id": "ls-b1-stranger-on-the-train",
+      "level": "b1",
+      "title": "The Stranger on the Train",
+      "az": "Hekayə: qatarda gözlənilməz görüş",
+      "covers": [
+        "narrative",
+        "relative"
+      ],
+      "paragraphs": [
+        "Last winter, Nigar was travelling by train from Baku to Sheki to visit her grandmother, who lived alone in an old house near the mountains. It was snowing heavily, and the carriage was almost empty. Opposite her sat an old man whose coat was still wet from the snow. He was holding a small wooden box which looked very old.",
+        "While the train was crossing a bridge, it suddenly stopped, and the box fell to the floor. A gold watch rolled under Nigar's seat. She picked it up and read the words on the back: \"To Kamal, with love.\"",
+        "The old man thanked her and smiled. He explained that his wife had given him the watch on their wedding day. Soon after that, he had found a job in another country, where he had worked for more than thirty years. He had sent letters and money home every month, but he hadn't been back for a very long time. \"Now I've retired,\" he said, \"and I'm going home to the town where I was born.\"",
+        "When the train arrived in Sheki, Nigar's grandmother was waiting on the platform. Nigar waved to her, but to her surprise, her grandmother ran straight past her and hugged the old man. \"Kamal, you're home at last!\" she cried.",
+        "Nigar couldn't believe it. The kind stranger whom she had helped on the train was her own grandfather, whom she had never met. Her grandmother had wanted it to be a surprise."
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "What is the surprise at the end of the story?",
+          "options": [
+            "The gold watch belonged to Nigar.",
+            "Nigar's grandmother was not at the station.",
+            "The old man was Nigar's grandfather.",
+            "The train never arrived in Sheki."
+          ],
+          "answer": 2,
+          "explain": "\"The kind stranger whom she had helped on the train was her own grandfather\"."
+        },
+        {
+          "skill": "detail",
+          "question": "Why did the box fall to the floor?",
+          "options": [
+            "The train suddenly stopped.",
+            "The old man fell asleep.",
+            "Nigar dropped it.",
+            "Someone opened the window."
+          ],
+          "answer": 0,
+          "explain": "\"While the train was crossing a bridge, it suddenly stopped, and the box fell to the floor.\""
+        },
+        {
+          "skill": "detail",
+          "question": "Who had given Kamal the watch?",
+          "options": [
+            "A friend from his job abroad",
+            "Nigar's mother",
+            "A stranger on a train",
+            "His wife, on their wedding day"
+          ],
+          "answer": 3,
+          "explain": "\"his wife had given him the watch on their wedding day\"."
+        },
+        {
+          "skill": "detail",
+          "question": "Why had Nigar never met her grandfather?",
+          "options": [
+            "He had lived in Baku, far from Sheki.",
+            "He had worked in another country for many years.",
+            "He had been ill in hospital.",
+            "He and her grandmother had stopped writing letters."
+          ],
+          "answer": 1,
+          "explain": "O, otuz ildən çox başqa ölkədə işləmişdi və uzun müddət evə qayıtmamışdı: \"he hadn't been back for a very long time\"."
+        },
+        {
+          "skill": "vocab",
+          "question": "\"Now I've retired,\" he said. What does \"retired\" mean?",
+          "options": [
+            "Found a new job",
+            "Become very tired",
+            "Stopped working because of age",
+            "Lost something important"
+          ],
+          "answer": 2,
+          "explain": "\"Retire\" – təqaüdə çıxmaq, yaşa görə işi dayandırmaq. Buna görə o, evə qayıdır."
+        }
+      ]
+    },
+    {
+      "id": "ls-b1-first-job-advice",
+      "level": "b1",
+      "ages": [
+        "15-17",
+        "18+"
+      ],
+      "title": "How to Find Your First Job",
+      "az": "Çıxış: ilk iş tapmaq üçün məsləhətlər",
+      "covers": [
+        "work",
+        "cond",
+        "gerunds"
+      ],
+      "paragraphs": [
+        "Good afternoon, everyone. My name is Leyla Hasanova, and I work as a manager at a technology company in Baku. Thank you for inviting me to talk about finding your first job. When I finished university, I had no idea what to do, so today I'd like to share some advice that helped me a lot.",
+        "First, think about what you enjoy doing. If you love working with people, a job where you sit alone at a computer all day probably won't make you happy. If you're good at solving problems, you might enjoy working in engineering. Don't choose a career just because it pays well.",
+        "Second, start getting experience now. Many companies offer summer internships for students. If I were you, I would apply for two or three, even if they are unpaid. Volunteering is also useful, because it shows employers that you are responsible and keen to learn.",
+        "Third, prepare carefully for interviews. Before going to an interview, find out about the company and practise answering common questions with a friend. Remember to arrive on time, and avoid looking at your phone. At the end, it's a good idea to ask one or two questions about the job, because this shows that you are really interested.",
+        "Finally, don't be afraid of making mistakes. I failed my first three interviews, but each time I learned something new. If you keep trying, you will find the right job. Good luck!"
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "Who is this talk mainly for?",
+          "options": [
+            "Managers who interview new workers",
+            "Young people who are looking for their first job",
+            "Engineers who want a better salary",
+            "Company owners who need volunteers"
+          ],
+          "answer": 1,
+          "explain": "Leyla ilk iş axtaran gənclərə məsləhət verir: \"talk about finding your first job\"."
+        },
+        {
+          "skill": "detail",
+          "question": "What does the speaker say about internships?",
+          "options": [
+            "You should only accept paid internships.",
+            "You should wait until you finish university.",
+            "They are a waste of time for most students.",
+            "You should apply for a few, even if they are unpaid."
+          ],
+          "answer": 3,
+          "explain": "\"If I were you, I would apply for two or three, even if they are unpaid.\""
+        },
+        {
+          "skill": "detail",
+          "question": "According to the speaker, what should you do at the end of an interview?",
+          "options": [
+            "Ask one or two questions about the job",
+            "Check your phone for messages",
+            "Talk about the salary",
+            "Thank the manager and leave quickly"
+          ],
+          "answer": 0,
+          "explain": "\"At the end, it's a good idea to ask one or two questions about the job\"."
+        },
+        {
+          "skill": "detail",
+          "question": "What happened at the speaker's first interviews?",
+          "options": [
+            "She got a job at her first interview.",
+            "She arrived late every time.",
+            "She failed the first three.",
+            "She forgot to prepare any questions."
+          ],
+          "answer": 2,
+          "explain": "\"I failed my first three interviews, but each time I learned something new.\""
+        },
+        {
+          "skill": "vocab",
+          "question": "\"Volunteering shows employers that you are keen to learn.\" \"Keen to learn\" means…",
+          "options": [
+            "afraid of learning",
+            "really wanting to learn",
+            "too busy to learn",
+            "already good at everything"
+          ],
+          "answer": 1,
+          "explain": "\"Keen to\" – nəyisə həvəslə etmək istəmək. Yəni öyrənməyə çox həvəslisən."
+        }
+      ]
+    },
+    {
+      "id": "ls-b2-museum-bracelet",
+      "level": "b2",
+      "title": "The Stolen Bracelet Comes Home",
+      "az": "Xəbər reportajı: muzeydən oğurlanan bilərzik tapıldı",
+      "covers": [
+        "crime",
+        "passive",
+        "modals"
+      ],
+      "paragraphs": [
+        "Good evening. A gold bracelet which was stolen from the Sheki History Museum last month has been found, and two men have been arrested in connection with the theft. The bracelet, which is believed to be more than eight hundred years old, was handed back to the museum this morning.",
+        "The theft was discovered on a Monday morning, when a cleaner noticed that a glass case in the main hall had been opened. At first, police thought the thief must have broken in through a window, but no damage was found anywhere in the building. \"Whoever did this can't have forced their way in,\" one detective told reporters at the time. \"They must have had a key, or someone must have let them in.\"",
+        "That detective turned out to be right. Security cameras showed that a man had been allowed into the building by a night guard shortly after midnight. The guard, who had worked at the museum for only three weeks, was questioned and later admitted that he had been offered money to switch off the alarm. Information he gave led officers to a flat in Baku, where the bracelet was found hidden inside a box of old books.",
+        "Both men have been charged with burglary and are expected to appear in court next month. If they are found guilty, they could face up to seven years in prison. The museum's director, Mrs Aliyeva, said she was relieved. \"We were afraid it might have been sold abroad and that we would never see it again,\" she explained. \"It has been an extremely difficult few weeks for our staff.\"",
+        "Security at the museum is now being reviewed, and new cameras will be installed before the end of the year. The bracelet will be put back on display on Saturday, when entry to the museum will be free for all visitors."
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "What is the news report mainly about?",
+          "options": [
+            "A museum that is opening a new main hall",
+            "How a stolen museum object was recovered and the suspects were caught",
+            "A night guard who bravely stopped a robbery",
+            "A plan to sell an old bracelet to a buyer abroad"
+          ],
+          "answer": 1,
+          "explain": "Reportaj oğurlanmış bilərziyin tapılmasından və iki nəfərin həbsindən bəhs edir: \"has been found, and two men have been arrested\"."
+        },
+        {
+          "skill": "detail",
+          "question": "Why did the detective believe the thief had a key or had been let in?",
+          "options": [
+            "The cleaner had seen the thief in the main hall",
+            "A window in the main hall was left open",
+            "No damage was found anywhere in the building",
+            "The alarm had been working normally all night"
+          ],
+          "answer": 2,
+          "explain": "Polis əvvəlcə pəncərədən girildiyini düşünürdü, amma \"no damage was found anywhere in the building\" – buna görə detektiv \"can't have forced their way in\" dedi."
+        },
+        {
+          "skill": "detail",
+          "question": "What can we conclude about the night guard?",
+          "options": [
+            "He had worked at the museum for many years",
+            "He was the one who found the bracelet in Baku",
+            "He refused the money he was offered",
+            "He helped the thief after being promised money"
+          ],
+          "answer": 3,
+          "explain": "Mühafizəçi oğrunu içəri buraxıb və etiraf edib ki, \"he had been offered money to switch off the alarm\". O, cəmi üç həftə işləyirdi."
+        },
+        {
+          "skill": "vocab",
+          "question": "\"That detective turned out to be right.\" What does \"turned out\" mean here?",
+          "options": [
+            "Was shown in the end",
+            "Was told by the police",
+            "Changed his mind",
+            "Decided suddenly"
+          ],
+          "answer": 0,
+          "explain": "\"Turn out\" – sonda məlum olmaq, üzə çıxmaq. Sonradan detektivin haqlı olduğu məlum oldu."
+        },
+        {
+          "skill": "detail",
+          "question": "How did Mrs Aliyeva feel about the news?",
+          "options": [
+            "Angry that the police had taken so long",
+            "Worried that the bracelet had been damaged",
+            "Relieved, because she had feared it was lost for good",
+            "Surprised that the thieves were from Sheki"
+          ],
+          "answer": 2,
+          "explain": "\"Mrs Aliyeva said she was relieved\" – o qorxurdu ki, bilərzik xaricə satılıb və bir daha görünməyəcək."
+        }
+      ]
+    },
+    {
+      "id": "ls-b2-logging-off",
+      "level": "b2",
+      "title": "A Month Without Social Media",
+      "az": "Podkast: sosial şəbəkəsiz bir ay və peşmanlıqlar",
+      "covers": [
+        "media",
+        "wishes",
+        "phrasal"
+      ],
+      "paragraphs": [
+        "Hi everyone, and welcome back to Screen Time, the podcast where we talk honestly about life online. I'm Aysel, and today I want to tell you about something a bit personal. Last spring, I decided to give up social media for a whole month.",
+        "To be honest, I had been putting it off for ages. I used to wake up and check my phone before I even got out of bed. I would scroll through endless posts, watch videos that had gone viral, and compare my ordinary life with the perfect photos of people I had never met. I knew that a lot of what I saw was fake or sponsored, but I kept going back for more.",
+        "Things came to a head when I missed my best friend's birthday dinner. I hadn't forgotten it exactly. I had simply lost track of time while I was reading comments under a news story that turned out to be completely false. If I had put my phone away that evening, I wouldn't have let her down. I still wish I had been there.",
+        "So I deleted the apps. The first week was tough. I kept reaching for my phone without thinking, and I worried that I was missing out on something important. But slowly, I started picking up old habits. I read three novels, I took up running again, and I actually called people instead of just liking their posts.",
+        "Now, I'm not saying social media is evil. It helps small businesses, and it gives ordinary people a voice. I'm back online now, but I've cut down to thirty minutes a day. Sometimes I wish I could switch it off completely, but I've realised the real problem wasn't the apps. It was me not setting any limits. So here's my question for you this week. If you could change one online habit, what would it be?"
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "What is Aysel's main point in this episode?",
+          "options": [
+            "Social media should be banned for young people",
+            "Fake news is the biggest danger online",
+            "She regrets ever creating social media accounts",
+            "The real problem was her lack of limits, not the apps themselves"
+          ],
+          "answer": 3,
+          "explain": "Sonda deyir: \"the real problem wasn't the apps. It was me not setting any limits.\""
+        },
+        {
+          "skill": "detail",
+          "question": "What finally made Aysel decide to take a break?",
+          "options": [
+            "She missed her best friend's birthday dinner",
+            "She read a false news story about her friend",
+            "Her phone stopped working one morning",
+            "A video she posted went viral"
+          ],
+          "answer": 0,
+          "explain": "\"Things came to a head when I missed my best friend's birthday dinner.\""
+        },
+        {
+          "skill": "vocab",
+          "question": "\"I had been putting it off for ages.\" What does \"putting it off\" mean?",
+          "options": [
+            "Talking about it",
+            "Delaying it",
+            "Enjoying it",
+            "Hiding it"
+          ],
+          "answer": 1,
+          "explain": "\"Put off\" – təxirə salmaq. Aysel bu qərarı çoxdan təxirə salırdı."
+        },
+        {
+          "skill": "detail",
+          "question": "How does Aysel use social media now?",
+          "options": [
+            "She has deleted all the apps for good",
+            "She only uses it for her small business",
+            "She spends about thirty minutes a day on it",
+            "She checks it before she gets out of bed"
+          ],
+          "answer": 2,
+          "explain": "\"I'm back online now, but I've cut down to thirty minutes a day.\""
+        },
+        {
+          "skill": "detail",
+          "question": "How does Aysel feel now about the evening of the birthday dinner?",
+          "options": [
+            "She thinks her friend overreacted",
+            "She still regrets not being there",
+            "She is glad she read the comments",
+            "She has completely forgotten about it"
+          ],
+          "answer": 1,
+          "explain": "\"I still wish I had been there\" – o hələ də peşmandır ki, dostunu məyus edib."
+        }
+      ]
+    },
+    {
+      "id": "ls-c1-music-and-memory",
+      "level": "c1",
+      "ages": [
+        "15-17",
+        "18+"
+      ],
+      "title": "Music, Memory and Choice",
+      "az": "Universitet mühazirəsi: musiqi, yaddaş və seçim",
+      "covers": [
+        "academic",
+        "cleft",
+        "collocations"
+      ],
+      "paragraphs": [
+        "Good morning, everyone. Today I'd like to turn to a study which has attracted considerable attention in recent months, partly because its findings run counter to what many of us had assumed. The research was carried out over a period of two years by a team at a university in Baku, and it set out to examine whether listening to music while studying affects how much students remember.",
+        "Now, previous studies had produced conflicting results. Some suggested that music aids concentration, while others claimed it was a major distraction. What this team did differently was to give a large sample of over six hundred students a genuine choice. Half of them were allowed to select their own music, or no music at all, while the other half were assigned music by the researchers. Both groups then sat exactly the same memory tests.",
+        "What emerged from the data was striking. It was not the type of music that made the most significant difference, nor even whether there was any music at all. It was the element of choice. Students who had chosen their own conditions consistently outperformed those who had not, by an average of around twelve percent. Interestingly, many of the highest scores came from students who had chosen silence.",
+        "The researchers argue that having control over one's environment may reduce stress and, in turn, improve focus. However, they are careful not to overstate their case. The study relied heavily on short tests, and it remains unclear whether the effect would hold over a full academic year. There is, in other words, insufficient evidence to draw firm conclusions about long-term learning.",
+        "Nevertheless, the findings do raise important questions for teachers and parents. All too often, we impose a single set of rules on every learner. What this study suggests is that giving students a degree of freedom, within reasonable limits, could be just as valuable as any particular technique. Next week, we'll look at the methods section in more detail, so please read the full paper beforehand."
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "What was the main finding of the study described in the lecture?",
+          "options": [
+            "Classical music improves memory more than other types",
+            "Being able to choose study conditions mattered more than the music itself",
+            "Studying in silence is always the best option",
+            "Music is a major distraction for most students"
+          ],
+          "answer": 1,
+          "explain": "\"It was not the type of music that made the most significant difference... It was the element of choice.\""
+        },
+        {
+          "skill": "detail",
+          "question": "In what way was this study different from earlier ones?",
+          "options": [
+            "It gave students a genuine choice about their conditions",
+            "It lasted for a full academic year",
+            "It used long exams instead of short tests",
+            "It only studied students who preferred silence"
+          ],
+          "answer": 0,
+          "explain": "\"What this team did differently was to give a large sample of over six hundred students a genuine choice.\""
+        },
+        {
+          "skill": "detail",
+          "question": "What does the lecturer say about the highest scores?",
+          "options": [
+            "They all came from students who were assigned music",
+            "They were about twelve percent lower than expected",
+            "Many of them came from students who had chosen silence",
+            "They were achieved only at the end of the two years"
+          ],
+          "answer": 2,
+          "explain": "\"Interestingly, many of the highest scores came from students who had chosen silence.\""
+        },
+        {
+          "skill": "detail",
+          "question": "What is the lecturer's attitude towards the study?",
+          "options": [
+            "Dismissive, because the sample was too small",
+            "Convinced that schools must change all their rules at once",
+            "Uninterested, mentioning it only briefly",
+            "Positive about its value but aware of the limits of its conclusions"
+          ],
+          "answer": 3,
+          "explain": "Mühazirəçi tədqiqatın \"important questions\" doğurduğunu deyir, lakin \"insufficient evidence to draw firm conclusions\" olduğunu da vurğulayır – yəni maraqlıdır, amma ehtiyatlıdır."
+        },
+        {
+          "skill": "vocab",
+          "question": "\"They are careful not to overstate their case.\" This means the researchers",
+          "options": [
+            "avoid repeating their results too often",
+            "avoid claiming more than their evidence shows",
+            "refuse to explain how the study was done",
+            "try not to criticise earlier studies"
+          ],
+          "answer": 1,
+          "explain": "\"Overstate\" – şişirtmək. Tədqiqatçılar sübutların göstərdiyindən artıq iddia etməkdən çəkinirlər."
+        }
+      ]
+    },
+    {
+      "id": "ls-c1-the-workshop",
+      "level": "c1",
+      "ages": [
+        "15-17",
+        "18+"
+      ],
+      "title": "The Call That Changed Everything",
+      "az": "Şəxsi çıxış: karyerada dönüş nöqtəsi",
+      "covers": [
+        "idioms",
+        "inversion",
+        "participle"
+      ],
+      "paragraphs": [
+        "Ten years ago, I was what most people would call a success. Having graduated near the top of my class, I had landed a well-paid job at a large bank in Baku, and on paper, everything was going swimmingly. I was working all hours, burning the midnight oil several nights a week, and telling myself it would all be worth it in the long run.",
+        "Little did I know that my whole career was about to be turned upside down. One winter evening, sitting in an empty office long after everyone else had gone home, I received a call from my grandfather in Sheki. He had fallen ill, he said, and could no longer run the small woodworking workshop he had kept going for forty years. Would I come and help him for a few weeks? Not once had I imagined leaving the bank, yet I heard myself saying yes.",
+        "Those few weeks changed everything. Working beside him, covered in sawdust, I felt calmer than I had in years. My grandfather was a man of few words, but he never cut corners, and he took enormous pride in every chair and table he made. Watching him, I began to understand that I had been chasing money and status rather than doing something I genuinely cared about.",
+        "Of course, leaving the bank was no piece of cake. My parents thought I had lost my mind, and money was tight for the first couple of years. There were moments when I was on the point of giving up and going back. Only when my first big order arrived, from a hotel in Gabala, did I finally feel that I had made the right call.",
+        "Today, the workshop employs six people, and my grandfather, now fully recovered, still drops by most mornings to check that we are all pulling our weight. I'm not saying everyone should quit their job tomorrow. But had I not answered the phone that night, I would probably still be sitting in that office, wondering what else life might have offered. Sometimes, the turning point you need arrives disguised as a problem."
+      ],
+      "skills": [
+        {
+          "id": "gist",
+          "label": "Əsas fikir"
+        },
+        {
+          "id": "detail",
+          "label": "Detallar"
+        },
+        {
+          "id": "vocab",
+          "label": "Söz və ifadələr"
+        }
+      ],
+      "questions": [
+        {
+          "skill": "gist",
+          "question": "What is the talk mainly about?",
+          "options": [
+            "How to become successful at a large bank",
+            "Why young people should leave office jobs",
+            "How an unexpected family request led the speaker to a new career",
+            "The history of a woodworking workshop in Sheki"
+          ],
+          "answer": 2,
+          "explain": "Babasının köməyə çağırması natiqin bankdan çıxıb emalatxanada işləməsinə səbəb olur: \"Those few weeks changed everything.\""
+        },
+        {
+          "skill": "detail",
+          "question": "Why did the speaker first go to Sheki?",
+          "options": [
+            "To help the grandfather, who was ill, for a few weeks",
+            "To buy furniture for a hotel in Gabala",
+            "To take a holiday after losing the bank job",
+            "To open a second workshop with six employees"
+          ],
+          "answer": 0,
+          "explain": "Baba xəstələnmişdi və emalatxananı idarə edə bilmirdi: \"Would I come and help him for a few weeks?\""
+        },
+        {
+          "skill": "vocab",
+          "question": "\"Leaving the bank was no piece of cake.\" What does this mean?",
+          "options": [
+            "Leaving the bank was a pleasant surprise",
+            "Leaving the bank was not easy",
+            "Leaving the bank was not well paid",
+            "Leaving the bank was done very quickly"
+          ],
+          "answer": 1,
+          "explain": "\"A piece of cake\" – çox asan iş. \"No piece of cake\" – heç də asan deyildi."
+        },
+        {
+          "skill": "detail",
+          "question": "When did the speaker finally feel sure about the decision?",
+          "options": [
+            "When the grandfather fully recovered",
+            "When the parents finally agreed",
+            "After the first winter in Sheki",
+            "When the first big order came from a hotel in Gabala"
+          ],
+          "answer": 3,
+          "explain": "\"Only when my first big order arrived, from a hotel in Gabala, did I finally feel that I had made the right call.\""
+        },
+        {
+          "skill": "detail",
+          "question": "How does the speaker now see the old job at the bank?",
+          "options": [
+            "As a mistake that everyone should avoid",
+            "As a time spent chasing money and status rather than meaningful work",
+            "As the best period of their working life",
+            "As a job they lost because the bank treated them unfairly"
+          ],
+          "answer": 1,
+          "explain": "\"I had been chasing money and status rather than doing something I genuinely cared about.\" Natiq hamının işdən çıxmalı olduğunu demir: \"I'm not saying everyone should quit\"."
+        }
+      ]
+    }
+  ]
+}
